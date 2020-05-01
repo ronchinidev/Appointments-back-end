@@ -9,7 +9,7 @@ Technologies:
 Development tools:  
 - VS Code               - Mongoose
 - Bcrypt JS             - Multer
-- Bee Queue
+- Bee Queue             -
 - Date fns
 - Express
 - Express handlebars
