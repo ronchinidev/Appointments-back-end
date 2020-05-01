@@ -7,10 +7,5 @@ Technologies:
 - HTML5  
   
 Development tools:  
-- VS Code               - Mongoose
-- Bcrypt JS             - Multer
-- Bee Queue             -
-- Date fns
-- Express
-- Express handlebars
-- Json Web Token
+  
+- VS Code - Bcrypt JS - Bee Queue - Date fns - Express - Express handlebars - Json Web Token - Mongoose - Multer - Nodemailer - Nodemailer-express-handlebars - PG - PG hstore - Sequelize - Yup
